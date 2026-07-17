@@ -28,6 +28,7 @@ Instead of relying on surface-level visual observations, advanced statistical te
 
 
 ## 📉 Phase 3: Executive Strategic Dashboard (Power BI)
+![](overview_dashboard.png)
 The entire analytical journey was synthesized into a high-fidelity, interactive executive interface designed under strict corporate dashboard design paradigms:
 * **Human-Centric UI/UX:** Built on a premium Dark Mode theme using custom contrasting container containers to maximize readability and reduce executive cognitive fatigue.
 * **Strategic Visual Anchoring:** Employs pre-attentive visual attributes—utilizing targeted **Red Alert highlighting** exclusively on the critical Apparel column and the isolated Black Friday scatter coordinate, leaving optimized areas in neutral tones.
